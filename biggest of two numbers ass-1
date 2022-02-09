@@ -1,0 +1,10 @@
+#Write a python program to print biggest of two numbers:
+
+a=int(input('enter a value'))
+b=int(input('enter b value'))
+
+if a>=b:
+    print("biggest number is a =",a)
+    
+else:
+    print("biggest number is b =",b)
